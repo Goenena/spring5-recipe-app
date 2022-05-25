@@ -1,4 +1,4 @@
-package guru.springframework.model;
+package com.avensic.model;
 
 import javax.persistence.*;
 

@@ -1,7 +1,6 @@
-package guru.springframework.model;
+package com.avensic.model;
 
 import javax.persistence.*;
-import javax.persistence.criteria.CriteriaBuilder;
 import java.util.Set;
 
 @Entity
